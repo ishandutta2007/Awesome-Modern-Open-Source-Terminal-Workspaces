@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Modern-Open-Source-Terminal-Workspaces/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Modern-Open-Source-Terminal-Workspaces?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Modern-Open-Source-Terminal-Workspaces/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Modern-Open-Source-Terminal-Workspaces?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Modern-Open-Source-Terminal-Workspaces/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Modern-Open-Source-Terminal-Workspaces?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Modern-Open-Source-Terminal-Workspaces/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -57,9 +57,9 @@ The table below catalogs premier SaaS and cloud-hosted terminal workspaces, rank
 
 ## 💻 Open-Source GitHub Projects
 
-The premier open-source terminal emulators, workspaces, multiplexers, and remote terminal utilities, **sorted strictly by GitHub Star count (descending)**:
+The premier open-source terminal emulators, workspaces, multiplexers, and remote terminal utilities, **sorted strictly by GitHub Stars_Count (descending)**:
 
-| Project | Stars | Language / Engine | Highlights & Architecture |
+| Project | GitHub_Stars | Language / Engine | Highlights & Architecture |
 | :--- | :---: | :--- | :--- |
 | **[Windows Terminal](https://github.com/microsoft/terminal)** | [![Stars](https://img.shields.io/github/stars/microsoft/terminal?style=social&color=white)](https://github.com/microsoft/terminal/stargazers) | C++ / DirectX | Modern, fast GPU-accelerated terminal for Windows with tabs, split panes, Unicode rendering, and WSL integration. |
 | **[fzf](https://github.com/junegunn/fzf)** | [![Stars](https://img.shields.io/github/stars/junegunn/fzf?style=social&color=white)](https://github.com/junegunn/fzf/stargazers) | Go | Blazingly fast, interactive general-purpose command-line fuzzy finder for commands, files, and git history. |
@@ -104,7 +104,7 @@ Contributions, project suggestions, and documentation improvements are warmly we
 
 1. 🍴 **Fork** this repository.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-terminal`).
-3. ✏️ **Add your project** to the appropriate table or list (please maintain descending star count order and include pricing/specs).
+3. ✏️ **Add your project** to the appropriate table or list (please maintain descending Stars_Count order and include pricing/specs).
 4. 💾 **Commit your changes** (`git commit -m 'feat: Add Awesome-Terminal-Project'`).
 5. 🚀 **Push to your branch** (`git push origin feature/add-new-terminal`).
 6. 📬 **Open a Pull Request** with a concise description of the addition.
